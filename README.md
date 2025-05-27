@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Studying_Developer)
 
+
+신입 개발자 공부중입니다~~ 열심히 할게요!
+
+
 <div>
 <h3>💪Stacks</h3>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
