@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&&section=header&Studying Developer)
+![header](https://capsule-render.vercel.app/api?type=waving&&section=header&Studying_Developer)
 
 <div>
 <h3>💪Stacks</h3>
