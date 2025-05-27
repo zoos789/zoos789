@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header]<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=신입 개발자 준비중!&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=waving)
+![header](https://capsule-render.vercel.app/api?color=auto)
+![header](https://capsule-render.vercel.app/api?text=신입 개발자 공부중!)
+
 <div>
 <h3>💪Stacks</h3>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
