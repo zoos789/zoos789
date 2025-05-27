@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving/text=신입 개발자 공부중!)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=blue_또는_코드&section=header&text=신입 개발자 공부중!)
 
 <div>
 <h3>💪Stacks</h3>
